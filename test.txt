@@ -1,1 +1,4 @@
 Hello
+I am Chloé
+from Toronto
+working on front-end developper Meta certification
